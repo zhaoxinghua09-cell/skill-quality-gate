@@ -16,3 +16,6 @@ python scripts/quality_gate.py <SKILL.md> [--json]
 
 ## Rules
 - No placeholders in outputs.
+
+## Skill Marketplace
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace — full skill catalog (enter from any skill).
