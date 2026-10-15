@@ -1,0 +1,14 @@
+# skill-quality-gate
+
+> LGD-aligned AI skill. Four-angle verified. See SKILL.md.
+
+## Ecosystem
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+
+## Identity & Archive
+- ORCID: https://orcid.org/0009-0001-0512-1237
+- Zenodo: https://doi.org/10.5281/zenodo.23385209
+- Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Fskill-quality-gate
+- Standards: https://github.com/FG-TIDA
