@@ -13,13 +13,11 @@ python scripts/quality_gate.py <SKILL.md> [--json]
 ```
 
 ## License
-MIT (code) · All rights reserved (SKILL.md theory text). © 2026 Steven Zhao / SynomosAI.
 
-## Ecosystem / 生态闭环
-
-- [awesome-trusted-agents](https://github.com/zhaoxinghua09-cell/awesome-trusted-agents) — 四角度评分精选清单（生态榜单入口）
-- [skill-scorecard](https://github.com/zhaoxinghua09-cell/skill-scorecard) — 四角度评分引擎
-- [lgd-hub](https://github.com/zhaoxinghua09-cell/lgd-hub) — LGD 理论资产统一入口
-- [lgd-skill-marketplace](https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace) — LGD 技能超市总目录
-- [governanceos](https://github.com/zhaoxinghua09-cell/governanceos) — 治理编排枢纽（SPEC→PLAN→GATE→AUDIT→EVO）
-- [skillgate](https://github.com/zhaoxinghua09-cell/skillgate) — 技能信任评分引擎
+代码许可 (code license) : MIT (see LICENSE)
+© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
+理论署名 (attribution) : LGD（Lifecycle Governance Doctrine / 全程治理论）— SynomosAI initiative
+名称状态 (name status)  : "SynomosAI" / "MedXpert" — 未申请实体注册、未申请商标注册
+                        (not a registered legal entity; no trademark registered)
+贡献者 (contributors)   : LGD 理论组（ResearchGroup）— 理论起草与评审集体署名
+SKILL.md theory text: All Rights Reserved; not covered by the code license.
